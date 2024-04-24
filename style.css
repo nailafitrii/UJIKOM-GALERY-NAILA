@@ -1,0 +1,14 @@
+.like-button {
+  border: none; /* Menghilangkan border */
+  background: none; /* Menghilangkan latar belakang */
+  padding: 0; /* Menghilangkan padding */
+  cursor: pointer; /* Menjadikan kursor menjadi pointer saat diarahkan ke tombol */
+}
+
+.login-form {
+  width: 380px;
+  height: 450px;
+  padding: 20px;
+  background-color: aquamarine;
+  border-radius: 10px !important;
+}
